@@ -1,0 +1,24 @@
+[submodule "libs/glm"]
+	path = libs/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "libs/glfw"]
+	path = libs/glfw
+	url = https://github.com/glfw/glfw
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "libs/SDL/SDL2"]
+	path = libs/SDL/SDL2
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "libs/SDL/SDL_mixer"]
+	path = libs/SDL/SDL_mixer
+	url = https://github.com/libsdl-org/SDL_mixer.git
+[submodule "libs/SFML"]
+	path = libs/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "libs/SDL/SDL_ttf"]
+	path = libs/SDL/SDL_ttf
+	url = https://github.com/libsdl-org/SDL_ttf.git
+[submodule "libs/SDL/SDL_image"]
+	path = libs/SDL/SDL_image
+	url = https://github.com/libsdl-org/SDL_image.git

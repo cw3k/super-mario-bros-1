@@ -11,3 +11,4 @@ vendor/*
 
 # Ignore VSCODE settings
 .vscode
+/Build_linux_native/
